@@ -1,0 +1,5 @@
+### Migration Commands
+
+add-migration AddCoupnToDb
+
+update database
